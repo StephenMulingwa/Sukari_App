@@ -1,0 +1,9 @@
+.venv
+venv
+__pycache__
+*.pyc
+.git
+.cursor
+tools
+js
+sukari_sample.html
